@@ -29,3 +29,7 @@ Ao executar o comando ```codenation submit -c git-1``` os passos acima serão va
 Para este desafio você precisará de:
 
 - Git
+
+##Alterações
+
+- Essa linha foi inserida.
